@@ -1,0 +1,85 @@
+{
+    "etag": "fjKBVOwK_Cyf1m6ItU4s0GL0AGY",
+    "eventId": null,
+    "kind": "youtube#searchListResponse",
+    "nextPageToken": "CAIQAA",
+    "prevPageToken": null,
+    "regionCode": "JP",
+    "visitorId": null,
+    "pageInfo": {
+        "resultsPerPage": 2,
+        "totalResults": 5398
+    },
+    "items": [
+        {
+            "etag": "xzNwpXsa1AdOa94Wzbq_t7xJDuo",
+            "kind": "youtube#searchResult",
+            "id": {
+                "channelId": null,
+                "kind": "youtube#video",
+                "playlistId": null,
+                "videoId": "GoPPZgRdb3k"
+            },
+            "snippet": {
+                "channelId": "UCiBfuUreTbKvBKtQbb6SIWQ",
+                "channelTitle": "kagaya john",
+                "description": "composer require google https:\/\/packagist.org\/packages\/google\/apiclient composer require google\/apiclient:\"^2.7\"",
+                "liveBroadcastContent": "none",
+                "publishedAt": "2020-09-23T02:36:26Z",
+                "title": "Uncaught Exception: Please run &quot;composer require google\/apiclient:~2.0&quot;",
+                "thumbnails": {
+                    "default": {
+                        "height": 90,
+                        "url": "https:\/\/i.ytimg.com\/vi\/GoPPZgRdb3k\/default.jpg",
+                        "width": 120
+                    },
+                    "medium": {
+                        "height": 180,
+                        "url": "https:\/\/i.ytimg.com\/vi\/GoPPZgRdb3k\/mqdefault.jpg",
+                        "width": 320
+                    },
+                    "high": {
+                        "height": 360,
+                        "url": "https:\/\/i.ytimg.com\/vi\/GoPPZgRdb3k\/hqdefault.jpg",
+                        "width": 480
+                    }
+                }
+            }
+        },
+        {
+            "etag": "T2IfjVCT_YgXIvIJgC4kg7JOOcI",
+            "kind": "youtube#searchResult",
+            "id": {
+                "channelId": null,
+                "kind": "youtube#video",
+                "playlistId": null,
+                "videoId": "v03Whti-erk"
+            },
+            "snippet": {
+                "channelId": "UCiBfuUreTbKvBKtQbb6SIWQ",
+                "channelTitle": "kagaya john",
+                "description": "How to install pip on linux.",
+                "liveBroadcastContent": "none",
+                "publishedAt": "2020-09-23T01:59:51Z",
+                "title": "How to install pip on linux",
+                "thumbnails": {
+                    "default": {
+                        "height": 90,
+                        "url": "https:\/\/i.ytimg.com\/vi\/v03Whti-erk\/default.jpg",
+                        "width": 120
+                    },
+                    "medium": {
+                        "height": 180,
+                        "url": "https:\/\/i.ytimg.com\/vi\/v03Whti-erk\/mqdefault.jpg",
+                        "width": 320
+                    },
+                    "high": {
+                        "height": 360,
+                        "url": "https:\/\/i.ytimg.com\/vi\/v03Whti-erk\/hqdefault.jpg",
+                        "width": 480
+                    }
+                }
+            }
+        }
+    ]
+}
